@@ -1,0 +1,14 @@
+\\Mac\Home\Desktop\AkbilYonetimiEntityFrameworkDBFirst503-master\AkbilYonetimiVeriKatmani\bin\Debug\net6.0\AkbilYonetimiVeriKatmani.deps.json
+\\Mac\Home\Desktop\AkbilYonetimiEntityFrameworkDBFirst503-master\AkbilYonetimiVeriKatmani\bin\Debug\net6.0\AkbilYonetimiVeriKatmani.runtimeconfig.json
+\\Mac\Home\Desktop\AkbilYonetimiEntityFrameworkDBFirst503-master\AkbilYonetimiVeriKatmani\bin\Debug\net6.0\AkbilYonetimiVeriKatmani.dll
+\\Mac\Home\Desktop\AkbilYonetimiEntityFrameworkDBFirst503-master\AkbilYonetimiVeriKatmani\bin\Debug\net6.0\AkbilYonetimiVeriKatmani.pdb
+\\Mac\Home\Desktop\AkbilYonetimiEntityFrameworkDBFirst503-master\AkbilYonetimiVeriKatmani\obj\Debug\net6.0\AkbilYonetimiVeriKatmani.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\AkbilYonetimiEntityFrameworkDBFirst503-master\AkbilYonetimiVeriKatmani\obj\Debug\net6.0\AkbilYonetimiVeriKatmani.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\AkbilYonetimiEntityFrameworkDBFirst503-master\AkbilYonetimiVeriKatmani\obj\Debug\net6.0\AkbilYonetimiVeriKatmani.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\AkbilYonetimiEntityFrameworkDBFirst503-master\AkbilYonetimiVeriKatmani\obj\Debug\net6.0\AkbilYonetimiVeriKatmani.AssemblyInfo.cs
+\\Mac\Home\Desktop\AkbilYonetimiEntityFrameworkDBFirst503-master\AkbilYonetimiVeriKatmani\obj\Debug\net6.0\AkbilYonetimiVeriKatmani.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\AkbilYonetimiEntityFrameworkDBFirst503-master\AkbilYonetimiVeriKatmani\obj\Debug\net6.0\AkbilYonetimiVeriKatmani.dll
+\\Mac\Home\Desktop\AkbilYonetimiEntityFrameworkDBFirst503-master\AkbilYonetimiVeriKatmani\obj\Debug\net6.0\refint\AkbilYonetimiVeriKatmani.dll
+\\Mac\Home\Desktop\AkbilYonetimiEntityFrameworkDBFirst503-master\AkbilYonetimiVeriKatmani\obj\Debug\net6.0\AkbilYonetimiVeriKatmani.pdb
+\\Mac\Home\Desktop\AkbilYonetimiEntityFrameworkDBFirst503-master\AkbilYonetimiVeriKatmani\obj\Debug\net6.0\AkbilYonetimiVeriKatmani.genruntimeconfig.cache
+\\Mac\Home\Desktop\AkbilYonetimiEntityFrameworkDBFirst503-master\AkbilYonetimiVeriKatmani\obj\Debug\net6.0\ref\AkbilYonetimiVeriKatmani.dll

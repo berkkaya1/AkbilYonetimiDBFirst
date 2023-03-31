@@ -1,0 +1,14 @@
+\\Mac\Home\Desktop\AkbilYonetimiEntityFrameworkDBFirst503-master\AkbilYonetimiIsKatmani\bin\Debug\net6.0\AkbilYonetimiIsKatmani.deps.json
+\\Mac\Home\Desktop\AkbilYonetimiEntityFrameworkDBFirst503-master\AkbilYonetimiIsKatmani\bin\Debug\net6.0\AkbilYonetimiIsKatmani.runtimeconfig.json
+\\Mac\Home\Desktop\AkbilYonetimiEntityFrameworkDBFirst503-master\AkbilYonetimiIsKatmani\bin\Debug\net6.0\AkbilYonetimiIsKatmani.dll
+\\Mac\Home\Desktop\AkbilYonetimiEntityFrameworkDBFirst503-master\AkbilYonetimiIsKatmani\bin\Debug\net6.0\AkbilYonetimiIsKatmani.pdb
+\\Mac\Home\Desktop\AkbilYonetimiEntityFrameworkDBFirst503-master\AkbilYonetimiIsKatmani\obj\Debug\net6.0\AkbilYonetimiIsKatmani.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\AkbilYonetimiEntityFrameworkDBFirst503-master\AkbilYonetimiIsKatmani\obj\Debug\net6.0\AkbilYonetimiIsKatmani.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\AkbilYonetimiEntityFrameworkDBFirst503-master\AkbilYonetimiIsKatmani\obj\Debug\net6.0\AkbilYonetimiIsKatmani.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\AkbilYonetimiEntityFrameworkDBFirst503-master\AkbilYonetimiIsKatmani\obj\Debug\net6.0\AkbilYonetimiIsKatmani.AssemblyInfo.cs
+\\Mac\Home\Desktop\AkbilYonetimiEntityFrameworkDBFirst503-master\AkbilYonetimiIsKatmani\obj\Debug\net6.0\AkbilYonetimiIsKatmani.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\AkbilYonetimiEntityFrameworkDBFirst503-master\AkbilYonetimiIsKatmani\obj\Debug\net6.0\AkbilYonetimiIsKatmani.dll
+\\Mac\Home\Desktop\AkbilYonetimiEntityFrameworkDBFirst503-master\AkbilYonetimiIsKatmani\obj\Debug\net6.0\refint\AkbilYonetimiIsKatmani.dll
+\\Mac\Home\Desktop\AkbilYonetimiEntityFrameworkDBFirst503-master\AkbilYonetimiIsKatmani\obj\Debug\net6.0\AkbilYonetimiIsKatmani.pdb
+\\Mac\Home\Desktop\AkbilYonetimiEntityFrameworkDBFirst503-master\AkbilYonetimiIsKatmani\obj\Debug\net6.0\AkbilYonetimiIsKatmani.genruntimeconfig.cache
+\\Mac\Home\Desktop\AkbilYonetimiEntityFrameworkDBFirst503-master\AkbilYonetimiIsKatmani\obj\Debug\net6.0\ref\AkbilYonetimiIsKatmani.dll
